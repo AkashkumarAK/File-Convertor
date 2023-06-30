@@ -1,0 +1,30 @@
+body {
+    background-color: chartreuse;
+    /* background-repeat: no-repeat;
+    background-size: cover; or specify the desired size */
+  }
+  h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+  }
+  .container{
+    background-color: antiquewhite;
+    padding: 5rem 5rem 5rem 5rem;
+    margin: 10rem;
+    border-radius: 3rem;
+    border-color: cadetblue;
+    border-style:solid;
+    border-width: 5rem;
+
+  }
+  
+h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(138, 80, 210);
+}
+h4{
+    text-align: center;
+    color: red;
+}
